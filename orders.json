@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Żurawia 9",
+      "postal_code": "68-200",
+      "city": "Żary",
+      "country": "Polen",
+      "lat": "51.643437827601495",
+      "lng": "15.164212613492708"
     }
   }
 }
