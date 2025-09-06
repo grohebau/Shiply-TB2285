@@ -30,10 +30,10 @@
     "pickup": {
       "street": "",
       "postal_code": "",
-      "city": "",
+      "city": "Heilbronn",
       "country": "",
-      "lat": "",
-      "lng": ""
+      "lat": "49.141361588232755",
+      "lng": "9.212413807785827"
     },
     "delivery": {
       "street": "Józefa Chłopickiego 8",
