@@ -1,6 +1,6 @@
 {
   "P91362": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Thomas Simon Kehl, Bleichestraße 9, 79576 Weil am Rhein, Deutschland",
     "receiver": "Dariusz Popławski, Józefa Chłopickiego 8, 68-200 Żary, Polen",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "03-09-2025",
-    "deliveryDate": "06-09-2025",
+    "deliveryDate": "09-09-2025, 14:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
